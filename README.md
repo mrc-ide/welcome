@@ -23,8 +23,17 @@ Go to https://github.com/settings/notifications and:
 
 ### Slack sends me messages all the time
 
-Slack will eventually tell you how to tone it down, but in slack's preferences, in the **Notifications** tab, select the second option under **Notify me about** (it will say **Direct messages, mentions & keywords**
+Slack will eventually tell you how to tone it down, but in slack's preferences, in the **Notifications** tab, select the second option under **Notify me about** (it will say **Direct messages, mentions & keywords**)
 
+
+### I hear we have a cluster :computer::computer::computer:
+
+Please see the documentation to get started:
+
+* Non R users: https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation
+* R users: [read this](https://mrc-ide.github.io/didehpc/vignettes/didehpc.html) and [this](https://mrc-ide.github.io/didehpc/vignettes/quickstart.html)
+
+You will need your account activated - if you email or slack Wes he can do this for you.
 
 ----
 
