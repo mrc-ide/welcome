@@ -24,3 +24,10 @@ Go to https://github.com/settings/notifications and:
 ### Slack sends me messages all the time
 
 Slack will eventually tell you how to tone it down, but in slack's preferences, in the **Notifications** tab, select the second option under **Notify me about** (it will say **Direct messages, mentions & keywords**
+
+
+----
+
+<small>
+technical team, go to https://github.com/mrc-ide/technical for the next steps
+</small>
