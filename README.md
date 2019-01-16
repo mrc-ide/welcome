@@ -10,8 +10,9 @@ Welcome to the centre/department.  In addition to all the official computational
 1. If you do not have one, please create a github account by visiting https://github.com
 1. Go to https://github.com/settings/emails and add your imperial email address to your github account.  You can have multiple email addresses associated with your account, which comes in useful
 1. Fill in [this very short form](https://rich284.typeform.com/to/COq4zn) with your name, email and github account name
-1. (optional) Send an email to Rich or Wes to let them know you've done this
 1. Watch out for two emails in your imperial inbox - one with an invitation to the slack and the other for github
+
+The form will email people who can set you up - it shouldn't take more than a day or so.
 
 ### Github is sending too many emails
 
