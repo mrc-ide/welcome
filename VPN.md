@@ -14,7 +14,7 @@ use the method below.
 
 If you're installing on Linux, do these steps first. (These are tested on Ubuntu, but not Centos).
 
-* `sudo apt install libwebkitgtk-1.0-0:i386 libdconf1:i386 dconf-gsettings-backend:i386`
+* `sudo apt install libwebkitgtk-1.0-0 libdconf1 dconf-gsettings-backend`
 * `echo "/usr/local/pulse" | sudo tee /etc/ld.so.conf.d/pulse.conf`
 * `sudo ldconfig`
 * `sudo apt install net-tools`
