@@ -3,11 +3,12 @@
 Plug in with a wired network cable in the department whenever you have that option. If you don't, then there are various options.
 
 * The latest installers for Pulse Secure are on the
-**Temp Drive IT folder** (*\\fi--didef3.dide.ic.ac.uk\Tmp\VPN*) - but this is hard to access from outside when you don't
-have Pulse Secure yet.
+**Temp Drive IT folder** (*\\\\fi--didef3.dide.ic.ac.uk\Tmp\VPN*) - but this may be hard to access from outside when you don't
+have Pulse Secure yet. These, however, might be more recent than the copies below.
 
-* For Windows and Mac, you can visit [here](https://secureaccess.imperial.ac.uk) to connect, although this doesn't always
-get things going first time on Linux. So try the below.
+* For Windows and Mac, you can try the web method [here](https://secureaccess.imperial.ac.uk), but this hasn't been
+reliable on Linux, and on the working platforms involves some download. So for all platforms, the best solution is to
+use the method below.
 
 ### Linux Pre-Flight
 
