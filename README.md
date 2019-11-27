@@ -28,9 +28,8 @@ Slack will eventually tell you how to tone it down, but in slack's preferences, 
 
 ### Connecting to DIDE From the outside
 
-For the best network speed and reliability, use a wired network connection. When this is not possible, or when you're
-working at home, you'll need to use Pulse Secure to connect to Imperial, in order to access network shares, or to
-run remote desktop to use your PC from outside. See [here](VPN.md)
+For the best network speed and reliability, use a wired network connection. When this is not possible, you'll need to 
+use Pulse Secure to access network shares, or to access your desktop PC by remote access. See [here](VPN.md)
 
 ### I hear we have a cluster :computer::computer::computer:
 
