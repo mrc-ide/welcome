@@ -26,6 +26,11 @@ Go to https://github.com/settings/notifications and:
 
 Slack will eventually tell you how to tone it down, but in slack's preferences, in the **Notifications** tab, select the second option under **Notify me about** (it will say **Direct messages, mentions & keywords**)
 
+### Connecting to DIDE From the outside
+
+For the best network speed and reliability, use a wired network connection. When this is not possible, or when you're
+working at home, you'll need to use Pulse Secure to connect to Imperial, in order to access network shares, or to
+run remote desktop to use your PC from outside. See [here](VPN.md)
 
 ### I hear we have a cluster :computer::computer::computer:
 
