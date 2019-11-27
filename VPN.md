@@ -26,8 +26,9 @@ If you're installing on Linux, do these steps first. (These are tested on Ubuntu
 [Linux Ubuntu/Debian](https://mrcdata.dide.ic.ac.uk/resources/ps-pulse-linux-5.3r6.0-b1769-ubuntu-debian-64-bit-installer.deb)
 or [Linux Centos](https://mrcdata.dide.ic.ac.uk/resources/ps-pulse-linux-5.3r6.0-b1769-centos-rhel-64-bit-installer.rpm).
 * The Server URL is `https://secureaccess.imperial.ac.uk`
-* Your username and password are your **IC credentials** (which you use for reading your mail) - even though this gets you
-access to your DIDE resources. The username does not nead any domain prefix.
+* Your username and password are your **IC credentials** - even though this gets you
+access to your DIDE resources. The username is in simple form, with no domain prefix or suffix. The password will
+be the one you use to read your email.
 
 ### See also
 
