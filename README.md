@@ -35,7 +35,7 @@ These instructions predate remote working, but will be relevant on return to the
 Please see the documentation to get started:
 
 * Non R users: https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation
-* R users: [read this](https://mrc-ide.github.io/didehpc/vignettes/didehpc.html) and [this](https://mrc-ide.github.io/didehpc/vignettes/quickstart.html)
+* R users: [read this](https://mrc-ide.github.io/didehpc/articles/didehpc.html) and [this](https://mrc-ide.github.io/didehpc/articles/quickstart.html)
 
 You will need your account activated - if you email or message Wes on Teams he can do this for you.
 
