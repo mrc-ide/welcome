@@ -38,7 +38,7 @@ Please see the documentation to get started:
 * Non R users: Consider becoming at least a part-time R user, as Hipercow makes managing  your jobs easier, even if they are not R jobs.
   Alternatively, there are Windows native tools for job launching, and a very simple web portal, described 
   [here](https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation) 
-  but this is not the recommended method. (And the docs are old and need updating following the closure of St. Mary's)
+  but this is not the recommended method (and the docs are old and need updating following the closure of St. Mary's).
 
 You will need your account activated - if you email or message Wes on Teams he can do this for you.
 
