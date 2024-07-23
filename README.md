@@ -24,11 +24,23 @@ Go to https://github.com/settings/notifications and:
 * Untick **Email** under **Watching**
 * Set up an email filter to collect all emails from `notifications@github.com` to be routed to a folder separate from your inbox (but still keep an eye on it)
 
-### Connecting to DIDE From the outside
+### Connecting to DIDE without a wired connection
 
-These instructions predate remote working, but will be relevant on return to the building.
+If you are connecting from home, or somewhere outside of DIDE, or even to the
+Imperial-WPA WiFi within the School of Public Health, you will need to firstly 
+connect with ZScaler, to then access any DIDE resources.
 
-> For the best network speed and reliability, use a wired network connection. When this is not possible, you'll need to use Pulse Secure to access DIDE network shares, or to connect to your desktop PC. See [here](VPN.md)
+See the instructions [here](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/unified-access/),
+and note that you sign into ZScaler itself with your **IC credentials**; once connected, you then
+can access DIDE network resources (such as network file shares, or remote desktop to DIDE machines)
+providing your **DIDE credentials** - where both of these might be different from your **local**
+credentials for logging into your laptop. If this is confusing, we explain it with pictures
+[here](https://mrc-ide.github.io/hipercow/articles/windows.html#about-our-usernames-and-passwords).
+
+You will also need to use multi-factor authentication - see ICT's instructions 
+[here](https://www.imperial.ac.uk/admin-services/ict/self-service/be-secure/passwords-and-extra-security/multi-factor-authentication/).
+
+For the best network speed and reliability, use a wired network connection wherever possible.
 
 ### I hear we have a cluster :computer::computer::computer:
 
