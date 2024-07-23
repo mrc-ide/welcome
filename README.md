@@ -34,7 +34,7 @@ These instructions predate remote working, but will be relevant on return to the
 
 Please see the documentation to get started:
 
-* R users: [read about Hieprcow](https://mrc-ide.github.io/hipercow/).
+* R users: [read about hipercow](https://mrc-ide.github.io/hipercow/).
 * Non R users: Consider becoming at least a part-time R user, as Hipercow makes managing  your jobs easier, even if they are not R jobs.
   Alternatively, there are Windows native tools for job launching, and a very simple web portal, described 
   [here](https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation) 
