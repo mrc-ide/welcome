@@ -34,8 +34,11 @@ These instructions predate remote working, but will be relevant on return to the
 
 Please see the documentation to get started:
 
-* Non R users: https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation
-* R users: [read this](https://mrc-ide.github.io/didehpc/articles/didehpc.html) and [this](https://mrc-ide.github.io/didehpc/articles/quickstart.html)
+* R users: [read about hipercow](https://mrc-ide.github.io/hipercow/).
+* Non R users: Consider becoming at least a part-time R user, as Hipercow makes managing  your jobs easier, even if they are not R jobs.
+  Alternatively, there are Windows native tools for job launching, and a very simple web portal, described 
+  [here](https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation) 
+  but this is not the recommended method (and the docs are old and need updating following the closure of St. Mary's).
 
 You will need your account activated - if you email or message Wes on Teams he can do this for you.
 
