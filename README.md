@@ -27,16 +27,18 @@ Go to https://github.com/settings/notifications and:
 ### Connecting to DIDE without a wired connection
 
 If you are connecting from home, or somewhere outside of DIDE, or even to the
-Imperial-WPA WiFi within the School of Public Health, you will need connect via
-ZScaler, to access any DIDE resources.
+Imperial-WPA WiFi within the School of Public Health, you will need to firstly 
+connect with ZScaler, to then access any DIDE resources.
 
 See the instructions [here](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/unified-access/),
 and note that you sign into ZScaler itself with your **IC credentials**; once connected, you then
-can access DIDE network resources providing your **DIDE credentials**.
+can access DIDE network resources (such as network file shares, or remote desktop to DIDE machines) 
+providing your **DIDE credentials**.
 
-You will also need to enable multi-factor authentication - see IC's instructions 
+You will also need to enable multi-factor authentication - see ICT's instructions 
 [here](https://www.imperial.ac.uk/admin-services/ict/self-service/be-secure/passwords-and-extra-security/multi-factor-authentication/).
 
+For the best network speed and reliability, use a wired network connection wherever possible.
 
 ### I hear we have a cluster :computer::computer::computer:
 
