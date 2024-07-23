@@ -32,10 +32,12 @@ connect with ZScaler, to then access any DIDE resources.
 
 See the instructions [here](https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/remote-access/unified-access/),
 and note that you sign into ZScaler itself with your **IC credentials**; once connected, you then
-can access DIDE network resources (such as network file shares, or remote desktop to DIDE machines) 
-providing your **DIDE credentials**.
+can access DIDE network resources (such as network file shares, or remote desktop to DIDE machines)
+providing your **DIDE credentials** - where both of these might be different from your **local**
+credentials for logging into your laptop. If this is confusing, we explain it with pictures
+[here](https://mrc-ide.github.io/hipercow/articles/windows.html#about-our-usernames-and-passwords).
 
-You will also need to enable multi-factor authentication - see ICT's instructions 
+You will also need to use multi-factor authentication - see ICT's instructions 
 [here](https://www.imperial.ac.uk/admin-services/ict/self-service/be-secure/passwords-and-extra-security/multi-factor-authentication/).
 
 For the best network speed and reliability, use a wired network connection wherever possible.
