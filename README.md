@@ -11,7 +11,7 @@ Welcome to the centre/department.  This page is to orient you to some of the com
 1. If you do not have one, please create a github account by visiting https://github.com
 1. Go to https://github.com/settings/emails and add your imperial email address to your github account.  You can have multiple email addresses associated with your account, which comes in useful
 1. Activate "two factor authentication" (2FA) on your github account, using [these instructions](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa)
-1. Fill in [this very short form](https://rich284.typeform.com/to/COq4zn) with your name, email and github account name
+1. Fill in [this very short form](https://forms.office.com/e/9gMK4F5ixY) with your name, email and github account name
 1. Watch out for the email in your imperial inbox, or visit https://github.com/mrc-ide to accept
 
 The form will email people who can set you up - it shouldn't take more than a day or so.
